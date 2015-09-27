@@ -33,4 +33,4 @@ Ryan Palmer : 0
 Emil Lindfors : 2
 Pablo Ryan : 8
 Gustavo Maglio : 0
-Alex King : 0'
+Alex King : 0`
