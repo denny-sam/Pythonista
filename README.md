@@ -7,4 +7,4 @@ This is a program which goes to www.thenewboston.com and accesses the points ear
 #####2) Youtube Playlist length calculator
 Using this program you can calculate the length of any Youtube playlist. It takes the URL of the Youtube playlist as command line argument and displays the length in the form of hours, minutes and seconds.
 
-`python3 Youtube-playlist-time-calculator.py "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_" `
+`$ python3 Youtube-playlist-time-calculator.py "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_" `
