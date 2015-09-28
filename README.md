@@ -8,3 +8,11 @@ This is a program which goes to www.thenewboston.com and accesses the points ear
 Using this program you can calculate the length of any Youtube playlist. It takes the URL of the Youtube playlist as command line argument and displays the length in the form of hours, minutes and seconds.
 
 `$ python3 Youtube-playlist-time-calculator.py "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_" `
+
+To make it work you need to install 2 modules.
+ 
+ ###1) Requests
+ `pip install requests`
+ 
+ ###2) BeautifulSoup4
+`pip install beautifulsoup4`
