@@ -11,8 +11,8 @@ Using this program you can calculate the length of any Youtube playlist. It take
 
 To make it work you need to install 2 modules.
  
-######*Requests
+######-Requests
  `pip install requests`
  
-######*BeautifulSoup4
+######-BeautifulSoup4
 `pip install beautifulsoup4`
