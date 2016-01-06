@@ -16,3 +16,9 @@ To make it work you need to install 2 modules.
  
 ######-BeautifulSoup4
 `pip install beautifulsoup4`
+
+#####3) Coding clock
+According to Malcolm Gladwell 10,000 hours is what it takes to be an expert in any field. Are you on a spree to become the best coder on the planet? This timer will help you track the amount of time you spent coding. 
+Just start the timer when you are coding. Pause it when you take a break. Stop it when you are done. 
+
+#######Caution: It creates a file called timer.txt. Make sure you don't tamper it or delete it. It stores the number of seconds you have coded so far.
