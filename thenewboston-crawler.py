@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 def get_points(url):
     r=requests.get(url)
     x= BeautifulSoup(r.text,'html.parser')
-    user=x.findAll('span',{'class':'titles'});
+    user=x.findAll('span',{'class':'titles'})
 
     for f in x.findAll('td'):
         for n in f.findAll('span'):
